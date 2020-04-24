@@ -1,0 +1,75 @@
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.development.json
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Properties\launchsettings.json
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.exe
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.dll
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.pdb
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hp\Downloads\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.development.json
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Properties\launchsettings.json
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.exe
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.dll
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.pdb
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\hrnji\Desktop\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.development.json
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Properties\launchsettings.json
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.exe
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.dll
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.pdb
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hp\Desktop\za aplikaciju\c#\ERestoran-master\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.development.json
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Properties\launchsettings.json
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.exe
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.dll
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.pdb
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\Hp\Desktop\za aplikaciju\c#3\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.development.json
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Properties\launchsettings.json
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.exe
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.dll
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\bin\Debug\netcoreapp3.0\Restoran.pdb
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\hrnji\Desktop\ERestoran-master\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
